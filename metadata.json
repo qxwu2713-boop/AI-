@@ -1,0 +1,6 @@
+{
+  "name": "AI 虚拟试衣大屏原型系统",
+  "description": "商场门店 AI 虚拟试衣大屏互动原型：涵盖极低门槛形象与服装选择、布料仿真等待与容错降级机制、多重隐私安全保护，以及扫码带走到店购买的全链路转化设计。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
